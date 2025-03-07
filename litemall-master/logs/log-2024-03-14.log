@@ -1,0 +1,6 @@
+2024-03-14 22:42:18,132 INFO [restartedMain] org.linlinjava.litemall.Application [StartupInfoLogger.java : 50] Starting Application on LAPTOP-LGT5FLKB with PID 28056 (started by asus in D:\code\xk\code\litemall商城小程序\litemall-master (2)\litemall-master\litemall-master)
+2024-03-14 22:42:18,138 DEBUG [restartedMain] org.linlinjava.litemall.Application [StartupInfoLogger.java : 53] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2024-03-14 22:42:18,138 INFO [restartedMain] org.linlinjava.litemall.Application [SpringApplication.java : 679] The following profiles are active: db,core,admin,wx
+2024-03-14 22:42:27,251 INFO [scheduling-1] o.l.litemall.admin.job.CouponJob [CouponJob.java : 36] 系统开启任务检查优惠券是否已经过期
+2024-03-14 22:42:27,295 INFO [restartedMain] org.linlinjava.litemall.Application [StartupInfoLogger.java : 59] Started Application in 10.476 seconds (JVM running for 12.554)
+2024-03-14 22:42:27,888 INFO [scheduling-1] o.l.litemall.admin.job.CouponJob [CouponJob.java : 50] 系统结束任务检查优惠券是否已经过期
